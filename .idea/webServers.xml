@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d53e0a8a-265c-4216-bd75-6a328fb821db" name="mhwearn" url="https://mhwearn.co.nz">
+        <fileTransfer accessType="SFTP" host="mhwearn.co.nz" port="22" sshConfigId="686ad39d-e195-4467-9590-36b8be22d3cc" sshConfig="root@mhwearn.co.nz:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
